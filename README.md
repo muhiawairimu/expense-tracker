@@ -14,6 +14,8 @@ An interactive, responsive financial management dashboard built with HTML5, CSS3
 - **Local Persistence:** Data persists locally in the browser using `localStorage`.
 
 ---
+<img width="918" height="395" alt="image" src="https://github.com/user-attachments/assets/06d45fac-dbc0-42b4-99fa-c242234d656f" />
+
 
 ## 🚀 Live Demo
 
